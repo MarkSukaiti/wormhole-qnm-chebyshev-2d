@@ -1,0 +1,53 @@
+=== reproduction of the raw N_x = 90 spectra by the Arb radial pencils (relative distance)
+  m=1 k= 0: median 8.2e-41  max 4.1e-40  (< 1e-25: 540/540)
+  m=1 k= 1: median 1.1e-40  max 4.6e-40  (< 1e-25: 540/540)
+  m=1 k= 2: median 1.1e-40  max 4.2e-40  (< 1e-25: 540/540)
+  m=1 k= 3: median 8.5e-41  max 4.1e-40  (< 1e-25: 540/540)
+  m=1 k= 4: median 7.7e-41  max 4.4e-40  (< 1e-25: 540/540)
+  m=1 k= 5: median 8.9e-41  max 4.6e-40  (< 1e-25: 540/540)
+  m=1 k= 6: median 1.4e-40  max 4.0e-40  (< 1e-25: 540/540)
+  m=1 k= 7: median 1.2e-40  max 4.6e-40  (< 1e-25: 540/540)
+  m=1 k= 8: median 9.7e-41  max 4.2e-40  (< 1e-25: 540/540)
+  m=1 k= 9: median 6.0e-41  max 4.1e-40  (< 1e-25: 540/540)
+  m=1 k=10: median 9.9e-41  max 4.8e-40  (< 1e-25: 540/540)
+  m=2 k= 0: median 8.7e-41  max 4.1e-40  (< 1e-25: 540/540)
+  m=2 k= 1: median 1.1e-40  max 4.1e-40  (< 1e-25: 540/540)
+  m=2 k= 2: median 8.7e-41  max 4.0e-40  (< 1e-25: 540/540)
+  m=2 k= 3: median 6.6e-41  max 4.1e-40  (< 1e-25: 540/540)
+  m=2 k= 4: median 1.4e-40  max 4.4e-40  (< 1e-25: 540/540)
+  m=2 k= 5: median 1.3e-40  max 4.5e-40  (< 1e-25: 540/540)
+  m=2 k= 6: median 1.1e-40  max 4.1e-40  (< 1e-25: 540/540)
+  m=2 k= 7: median 8.5e-41  max 3.9e-40  (< 1e-25: 540/540)
+  m=2 k= 8: median 6.3e-41  max 4.5e-40  (< 1e-25: 540/540)
+  m=2 k= 9: median 1.0e-40  max 4.3e-40  (< 1e-25: 540/540)
+  m=2 k=10: median 7.5e-41  max 4.4e-40  (< 1e-25: 540/540)
+  m=3 k= 0: median 9.3e-41  max 4.1e-40  (< 1e-25: 540/540)
+  m=3 k= 1: median 9.9e-41  max 4.6e-40  (< 1e-25: 540/540)
+  m=3 k= 2: median 8.6e-41  max 4.4e-40  (< 1e-25: 540/540)
+  m=3 k= 3: median 1.4e-40  max 4.3e-40  (< 1e-25: 540/540)
+  m=3 k= 4: median 1.4e-40  max 4.5e-40  (< 1e-25: 540/540)
+  m=3 k= 5: median 1.0e-40  max 4.1e-40  (< 1e-25: 540/540)
+  m=3 k= 6: median 8.7e-41  max 4.4e-40  (< 1e-25: 540/540)
+  m=3 k= 7: median 7.0e-41  max 4.2e-40  (< 1e-25: 540/540)
+  m=3 k= 8: median 1.2e-40  max 4.5e-40  (< 1e-25: 540/540)
+  m=3 k= 9: median 8.6e-41  max 4.3e-40  (< 1e-25: 540/540)
+  m=3 k=10: median 6.1e-41  max 4.7e-40  (< 1e-25: 540/540)
+retained by the first-stage criterion: 1350; converged: 674 (337 pairs); zero-frequency artefacts: 395; not converged: 281
+converged with Im w >= 0: 0
+  retained root in the upper half-plane: m=3 k=10 w=537.1369033828295 + 0.09377248204192903im q=3.15e+00 (not converged)
+least damped converged root (Re varpi >= 0 member): m=1 k=10 L=2 n=0  w = 179.30902768183893 - 0.10591876289706074im
+unlabelled converged roots: 0
+converged roots with Re varpi >= 0 left without overtone number (gaps): 4
+converged q: median 7.9e-12
+=== converged mirror pairs per (m, j)   [Table II]
+  j=0      m=1: N_c= 18  max Im= -0.5069   m=2: N_c= 23  max Im= -0.5043   m=3: N_c= 26  max Im= -0.5030
+  j=1/9    m=1: N_c= 15  max Im= -0.5060   m=2: N_c= 19  max Im= -0.5010   m=3: N_c= 22  max Im= -0.4945
+  j=1/4    m=1: N_c= 15  max Im= -0.4884   m=2: N_c= 14  max Im= -0.4583   m=3: N_c= 19  max Im= -0.4473
+  j=3/7    m=1: N_c= 10  max Im= -0.4398   m=2: N_c= 11  max Im= -0.4029   m=3: N_c= 13  max Im= -0.3902
+  j=2/3    m=1: N_c=  7  max Im= -0.3864   m=2: N_c=  9  max Im= -0.3489   m=3: N_c= 12  max Im= -0.3363
+  j=1      m=1: N_c=  6  max Im= -0.3339   m=2: N_c=  9  max Im= -0.2989   m=3: N_c= 11  max Im= -0.2873
+  j=3/2    m=1: N_c=  6  max Im= -0.2832   m=2: N_c=  9  max Im= -0.2521   m=3: N_c= 10  max Im= -0.2419
+  j=7/3    m=1: N_c=  6  max Im= -0.2333   m=2: N_c=  8  max Im= -0.2069   m=3: N_c=  9  max Im= -0.1983
+  j=4      m=1: N_c=  6  max Im= -0.1818   m=2: N_c=  7  max Im= -0.1609   m=3: N_c=  7  max Im= -0.1540
+  j=9      m=1: N_c=  5  max Im= -0.1231   m=2: N_c=  3  max Im= -0.1087   m=3: N_c=  0  max Im=   ---  
+  j=19     m=1: N_c=  2  max Im= -0.1059   m=2: N_c=  0  max Im=   ---     m=3: N_c=  0  max Im=   ---  

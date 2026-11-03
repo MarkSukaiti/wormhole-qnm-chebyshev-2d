@@ -1,0 +1,13 @@
+=== summary per source (Table VII)
+  KonoplyaZhidenko2006                                 CF              N=11  all digits= 9  max dev  0.53 last-digit units  max delta 2.1e-06
+  BertiCardoso2006                                     CF              N=28  all digits=24  max dev  0.57 last-digit units  max delta 1.2e-05
+  LinEtAl2017                                          CF              N= 6  all digits= 5  max dev  0.50 last-digit units  max delta 4.1e-06
+  LinEtAl2017                                          matrix method   N= 6  all digits= 2  max dev  6.73 last-digit units  max delta 1.1e-05
+  refLeaver1985_Kerr (as quoted in Konoplya2003PRD)    CF              N= 5  all digits= 4  max dev  0.51 last-digit units  max delta 1.7e-04
+  Mamani2022EPJC                                       PS and AIM      N=14  all digits=14  max dev  0.50 last-digit units  max delta 1.3e-06
+  ChoEtAl2012                                          AIM             N= 5  all digits= 3  max dev  0.56 last-digit units  max delta 1.7e-04
+  Konoplya2003PRD                                      WKB 6th order   N= 5  all digits= 1  max dev  2.43 last-digit units  max delta 6.1e-04
+  IyerWill1987PRD (as tabulated in Konoplya2003PRD)    WKB 3rd order   N= 5  all digits= 0  max dev 51.58 last-digit units  max delta 7.9e-03
+continued-fraction, pseudospectral and AIM values: 69, all digits reproduced: 59; the 10 others differ by one unit in the last digit, the accurate value lying within 0.072 units of a rounding boundary
+largest deviation of a listed spectral value from qnm: 4.9e-09
+written results/literature_tables.tex
