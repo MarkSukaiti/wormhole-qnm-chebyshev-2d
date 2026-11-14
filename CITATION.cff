@@ -1,0 +1,76 @@
+# Authors: Mark Essa Sukaiti, Davide Batic and Dr. Denys Dutykh (Mathematics Department, Khalifa
+# University of Science and Technology, Abu Dhabi, UAE)
+#
+# Citation metadata in Citation File Format 1.2.0, from which GitHub draws its button
+# "Cite this repository". The preferred citation is the preprint that the codes accompany.
+
+cff-version: 1.2.0
+message: "If you use these codes, please cite the preprint given under preferred-citation."
+title: "wormhole-qnm-chebyshev-2d: scalar quasinormal modes of the exact spinning Morris–Thorne wormhole"
+abstract: >-
+  Maple and Julia codes for the quasinormal modes of a massless scalar field on the complete
+  two-ended geometry of the exact spinning Morris–Thorne wormhole. The problem is compactified
+  and discretised by two-dimensional Chebyshev collocation into a quadratic eigenvalue problem,
+  whose matrices are assembled in Maple and whose spectra are solved, filtered and analysed in
+  Julia, with direct integration of the radial equation as an independent check and the Kerr
+  spacetime as a benchmark.
+type: software
+license: AGPL-3.0-only
+repository-code: "https://github.com/MarkSukaiti/wormhole-qnm-chebyshev-2d"
+url: "https://arxiv.org/abs/2611.12838"
+keywords:
+  - wormholes
+  - quasinormal-modes
+  - general-relativity
+  - kerr-black-hole
+  - spectral-methods
+  - chebyshev-polynomials
+  - maple
+  - julia
+  - reproducible-research
+authors:
+  - family-names: Sukaiti
+    given-names: Mark Essa
+  - family-names: Batic
+    given-names: Davide
+    affiliation: "Mathematics Department, Khalifa University of Science and Technology, Abu Dhabi, United Arab Emirates"
+    orcid: "https://orcid.org/0000-0002-7619-4900"
+  - family-names: Dutykh
+    given-names: Denys
+    affiliation: "Mathematics Department, Khalifa University of Science and Technology, Abu Dhabi, United Arab Emirates"
+    orcid: "https://orcid.org/0000-0001-5247-2788"
+preferred-citation:
+  type: generic
+  title: "Scalar Quasinormal Modes of the Exact Spinning Morris–Thorne Wormhole"
+  authors:
+    - family-names: Sukaiti
+      given-names: Mark
+    - family-names: Batic
+      given-names: Davide
+    - family-names: Dutykh
+      given-names: Denys
+  publisher:
+    name: arXiv
+  year: 2026
+  doi: "10.48550/ARXIV.2611.12838"
+references:
+  - type: article
+    title: "Exact Spinning Morris-Thorne Wormhole: Causal Structure, Shadows, and Multipole Moments"
+    authors:
+      - family-names: Batic
+        given-names: Davide
+      - family-names: Dutykh
+        given-names: Denys
+      - family-names: Sukaiti
+        given-names: Mark Essa
+    journal: "The European Physical Journal C"
+    volume: 86
+    issue: "2"
+    start: 179
+    year: 2026
+    month: 2
+    doi: "10.1140/epjc/s10052-026-15354-3"
+    identifiers:
+      - type: url
+        value: "https://arxiv.org/abs/2602.21906"
+        description: "arXiv preprint"
